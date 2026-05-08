@@ -2,13 +2,17 @@
 
 Plan your work. Stay focused. Stay ahead.
 
+A student-first productivity system built to help users organize assignments, reduce overwhelm, and always know what to do next.
+
 ---
 
 ## Overview
 
-DueToday is a student-first productivity app designed to help users organize assignments, prioritize tasks, stay focused, and keep track of progress without feeling overwhelmed.
+DueToday is designed for students balancing school, work, sports, personal life, and long-term goals.
 
-Built with a clean and minimal interface, DueToday focuses on clarity, organization, and momentum.
+Instead of overwhelming users with unnecessary complexity, DueToday creates clarity by helping them focus on priorities, deadlines, and consistent progress.
+
+Built with a clean and modern interface, the app turns productivity into a system instead of a struggle.
 
 ---
 
@@ -16,15 +20,18 @@ Built with a clean and minimal interface, DueToday focuses on clarity, organizat
 
 Most productivity apps feel overloaded, distracting, or built for corporate workflows instead of real student life.
 
-Students balance:
-- school
+Students manage:
+- classes
+- exams
+- assignments
 - sports
 - work
-- goals
-- personal life
+- personal responsibilities
 - deadlines
 
-But most apps make planning feel more stressful instead of simpler.
+Yet most planning apps create more stress instead of reducing it.
+
+Users often know they are busy, but they do not know what deserves attention first.
 
 ---
 
@@ -33,10 +40,14 @@ But most apps make planning feel more stressful instead of simpler.
 DueToday helps users immediately understand:
 - what matters most
 - what should be done next
-- what’s overdue
-- how progress is improving over time
+- what is overdue
+- how progress improves over time
 
-The goal is to reduce stress while improving consistency and focus.
+The goal is simple:
+
+Reduce stress.
+Increase consistency.
+Create momentum.
 
 ---
 
@@ -73,6 +84,8 @@ Current development includes:
 - progress tracking
 - ongoing interface refinement
 
+DueToday is actively being built and improved through continuous iteration and product testing.
+
 ---
 
 ## Roadmap
@@ -98,6 +111,8 @@ This repository will continue to be updated with:
 - design improvements
 - product evolution
 
+This project is being developed as both a real-world productivity product and a long-term software engineering portfolio project.
+
 ---
 
 ## Note
@@ -105,4 +120,5 @@ This repository will continue to be updated with:
 © 2026 DueToday. All rights reserved.
 
 This repository is a public showcase of the product and development progress.
-Production implementation and backend systems remain private. 
+
+Production implementation and backend systems remain private.
