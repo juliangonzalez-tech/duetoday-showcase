@@ -4,6 +4,7 @@ Plan your work. Stay focused. Stay ahead.
 
 A student-first productivity system built to help users organize assignments, reduce overwhelm, and always know what to do next.
 
+(This is an app in progress)
 ---
 
 ## Overview
@@ -66,7 +67,7 @@ Create momentum.
 ---
 
 ## Screenshots
-
+-They are in folders: Welcome, Daily, Weekly, Monthly, Focus-Progress
 ### Welcome Screen
 
 <img width="300" alt="DueToday Welcome" src="screenshots/welcome.png">
